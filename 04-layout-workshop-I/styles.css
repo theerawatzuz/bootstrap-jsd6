@@ -5,12 +5,19 @@
 
 
 .box {
-    width: auto;
-    height: 20vh;
     background-color: wheat;
     text-align: center;
     justify-content: center;
     display: flex;
     flex-direction: column;
     font-size: 2rem;
+}
+
+.square{
+    aspect-ratio: 1/1;
+}
+
+
+.ratio16-10{
+    aspect-ratio: 16/10;
 }
