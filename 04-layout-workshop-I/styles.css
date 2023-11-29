@@ -1,0 +1,16 @@
+*{
+    background-color: #332b2b;
+    color: wheat;
+}
+
+
+.box {
+    width: auto;
+    height: 20vh;
+    background-color: wheat;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 2rem;
+}
